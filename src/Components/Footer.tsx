@@ -19,7 +19,10 @@ const Footer = () => {
         bgcolor: 'background.default',
         opacity: 1,               
         pt: 20, 
-        pb: 20
+        pb: 20,
+  
+        mr: { xs: 0, md: 20 }  
+
       }}
     >
       <Stack 

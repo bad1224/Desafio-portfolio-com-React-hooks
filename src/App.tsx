@@ -97,7 +97,7 @@ function App() {
           </Box>
           
           <Box sx={{ mt: 6 }}>
-            <Typography variant="h6" sx={{ fontWeight: 'bold', mb: 2, color: 'text.secondary' }}>
+            <Typography variant="h6" sx={{ fontWeight: 'bold', mb: 2, color: 'text.primary' }}>
               Minhas Habilidades & Tecnologias
             </Typography>
             <Stack direction="row" spacing={1} useFlexGap flexWrap="wrap">
@@ -137,7 +137,7 @@ function App() {
               
               <Stack direction="row" alignItems="center" spacing={3} sx={{ mb: 2 }}>
                 <Chip label="2025" sx={{ bgcolor: '#142850', color: 'white', fontWeight: 'bold', height: 25 }} />
-                <Typography sx={{ color: 'text.secondary' }}>Desenvolvimento Web</Typography>
+                <Typography sx={{ color: 'text.primary' }}>Desenvolvimento Web</Typography>
               </Stack>
 
               <Typography sx={{ color: 'text.primary', lineHeight: 1.7 }}>
@@ -163,7 +163,7 @@ function App() {
               
               <Stack direction="row" alignItems="center" spacing={3} sx={{ mb: 2 }}>
                 <Chip label="2025" sx= {{ bgcolor: '#142850', color: 'white', fontWeight: 'bold', height: 25 }} />
-                <Typography sx={{ color: 'text.secondary' }}>Arquitetura && UI/UX </Typography>
+                <Typography sx={{ color: 'text.primary' }}>Arquitetura && UI/UX </Typography>
               </Stack>
 
               <Typography sx={{ color: 'text.primary', lineHeight: 1.7 }}>
@@ -191,7 +191,7 @@ function App() {
               
               <Stack direction="row" alignItems="center" spacing={3} sx={{ mb: 2 }}>
                 <Chip label="2025" sx={{ bgcolor: '#142850', color: 'white', fontWeight: 'bold', height: 25 }} />
-                <Typography sx={{ color: 'text.secondary' }}> UI/UX </Typography>
+                <Typography sx={{ color: 'text.primary' }}> UI/UX </Typography>
               </Stack>
 
               <Typography sx={{ color: 'text.primary', lineHeight: 1.7 }}>

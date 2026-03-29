@@ -28,10 +28,9 @@ const Blog = () => {
     }}>
 
       <Container 
-        maxWidth={false}
+        maxWidth="xl"
         sx={{ 
-          
-          pl: { xs: 2, md: 43 }, 
+          pl: { xs: 2, md: 13 }, 
           display: 'flex',
           flexDirection: 'column'
         }}
@@ -61,7 +60,9 @@ const Blog = () => {
             <Typography variant="body1" sx={{ mb: 3, fontSize: '18px' }}>
               25 Mar 2026  &nbsp;  &nbsp; Design, Rudson
             </Typography>
-            <Typography variant="body1" sx={{ color: 'text.secondary', lineHeight: 1.8 }}>
+            
+            {/* AJUSTE TEXTO 01 - COR INTELIGENTE (TEXT.PRIMARY) */}
+            <Typography variant="body1" sx={{ color: 'text.primary', fontWeight: 500, lineHeight: 1.8 }}>
               Neste artigo, exploro o processo de construção<br />
               de um Design System robusto . Escalável focando <br />
               na criação de componentes . Reutilizáveis e na consistência visual para aplicações modernas<br />
@@ -86,11 +87,11 @@ const Blog = () => {
             <Typography variant="body1" sx={{ mb: 3, fontSize: '18px' }}>
               25 Mar 2026 &nbsp;  &nbsp; Figma, Design de Ícones
             </Typography>
-            <Typography variant="body1" sx={{ color: 'text.secondary', lineHeight: 1.8 }}>
-              Uma análise sobre as tendências de interfaces de usuário
-              focando em como o uso de cores.Tipografia <br />
-              e espaçamento pode transformar. A experiência do usuário em plataformas 
-              digitais de alto desempenho. digitais de alto desempenho
+            
+            {/* AJUSTE TEXTO 02 - COR INTELIGENTE (TEXT.PRIMARY) */}
+            <Typography variant="body1" sx={{ color: 'text.primary', fontWeight: 500, lineHeight: 1.8 }}>
+              Uma análise sobre as tendências de interfaces de usuário focando em como o uso de cores.Tipografia <br />
+              e espaçamento pode transformar. A experiência do usuário em plataformas digitais de alto desempenho. digitais de alto desempenho
             </Typography>
           </Paper>
 
