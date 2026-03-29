@@ -1,9 +1,9 @@
 # 🚀 Portfólio Profissional - Rudson Reiler
 
-## 🔗 Links do Projeto
-* **Site ao Vivo (Vercel):** https://desafio-portfolio-com-react-hooks-dfe8hxlnv-bad1224s-projects.vercel.app
+ ## 🔗 Links do Projeto
+ * **Site ao Vivo (Vercel):** https://desafio-portfolio-com-react-hooks-dfe8hxlnv-bad1224s-projects.vercel.app
 
-Este projeto é o resultado do desafio de desenvolvimento Front-end, focado em criar um portfólio moderno, responsivo e funcional utilizando as melhores tecnologias do mercado.
+Este projeto é o resultado do desafio de desenvolvimento Front-end, focado em criar um portfólio moderno, responsivo e funcional       utilizando as melhores tecnologias do mercado.
 
 ### 📌 Documentação do Projeto
 * **Template Selecionado:** Template 03 (Figma)
